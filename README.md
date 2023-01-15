@@ -7,6 +7,9 @@ This will ask your first name, last name, age, college you are attending and whi
 This will also ask how many pets you belong.
 
 ## App Walk-though
+
+![Prework Codepath](https://user-images.githubusercontent.com/91080765/212529105-dec0f056-2c89-4d62-95cb-db92f7564847.gif)
+
 https://gifyu.com/image/SvBvh
 
 
