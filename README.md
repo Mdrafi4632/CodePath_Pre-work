@@ -7,8 +7,6 @@ This will ask your first name, last name, age, college you are attending and whi
 This will also ask how many pets you belong.
 
 ## App Walk-though
-TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
 https://gifyu.com/image/SvBvh
 
 
